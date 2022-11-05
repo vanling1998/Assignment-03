@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  .img-anhthe {
+    display: none;
+  }
+  .flex-duan,
+  .scopes-inout {
+    flex-direction: column;
+  }
+  .hidden-icon {
+    display: none;
+  }
+  .sothich-content {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}

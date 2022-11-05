@@ -1,0 +1,8 @@
+@media (max-width: 576px) {
+  .flex-duan {
+    flex-direction: column;
+  }
+  .sothich-content {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
